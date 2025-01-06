@@ -2,10 +2,13 @@ Projeto Lancamentos de Debito e credito
 
 Deve ser usado o visual studio 2022 -  Que esteja com todas as bibliotecas atualizadas com ultima versão. 
 
-Na raiz do projeto tem uma collection onde pode ser feito o consumo da api desde que a aplicação esteja em execução : RestFull Lancamentos.postman_collection.json (somente importar no postaman e executar o passo 1 de autenticacao, e depois ser
-iam os processos de credito e debito e consolidação).
+Na raiz do projeto tem uma collection onde pode ser feito o consumo da api desde que a aplicação esteja em execução : RestFull Lancamentos.postman_collection.json (somente importar no 
+ postaman e executar o passo 1 de autenticacao, e depois seriam os processos de credito e debito e consolidação). 
+Deve ser atualizado o token que tem no retorno da autenticacao Na authorization como Barear Token, para fazer as requisicos 2, 3, e 4
 
-tem o ScripBancoDados.sql na raiz do projeto onde deve ser executado e posteriormente, deve ser atualizado no appsettings a connectionstring
+
+
+O Script do Banco dedados, o ScriptLancamento.sql na raiz do projeto onde deve ser executado em base sql escolhida por voces,  e posteriormente, deve ser atualizado no appsettings a connectionstring
 
 Projeto desenvolvido em Aspnet Core C# e SQL, e pode ser implantando em estrutura WebAplication e/ou Docker.
 
