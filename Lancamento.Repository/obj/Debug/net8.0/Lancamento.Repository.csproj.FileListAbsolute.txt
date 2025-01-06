@@ -1,0 +1,15 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\bin\Debug\net8.0\Lancamento.Repository.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\bin\Debug\net8.0\Lancamento.Repository.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\bin\Debug\net8.0\Lancamento.Repository.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\bin\Debug\net8.0\Lancamento.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\bin\Debug\net8.0\Lancamento.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamen.0F7642D6.Up2Date
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\refint\Lancamento.Repository.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\Lancamento.Repository.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Repository\obj\Debug\net8.0\ref\Lancamento.Repository.dll

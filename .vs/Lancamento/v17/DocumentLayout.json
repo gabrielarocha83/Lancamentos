@@ -1,0 +1,227 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5654D668-8B7C-4ADF-A1AC-81FD2C954D46}|LancamentoTest\\LancamentoTest.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamentotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5654D668-8B7C-4ADF-A1AC-81FD2C954D46}|LancamentoTest\\LancamentoTest.csproj|solutionrelative:lancamentotest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.repository\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|solutionrelative:lancamento.repository\\lancamentorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.repository\\command\\createlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|solutionrelative:lancamento.repository\\command\\createlancamentocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|solutionrelative:lancamento.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|solutionrelative:lancamento.api\\controllers\\authcontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.api\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6515C8B5-AAA1-4654-BC7B-EBE62237CE0A}|Lancamento.API\\Lancamento.API.csproj|solutionrelative:lancamento.api\\controllers\\lancamentoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E76A91E9-9D93-45AC-A0CE-CC56A2B541F0}|Lancamento.Domain\\Lancamento.Domain.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.domain\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E76A91E9-9D93-45AC-A0CE-CC56A2B541F0}|Lancamento.Domain\\Lancamento.Domain.csproj|solutionrelative:lancamento.domain\\lancamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C69538-C2B3-4F08-A905-A0127485CE63}|Lancamento.Services\\Lancamento.Services.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.services\\command\\lancamentocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C69538-C2B3-4F08-A905-A0127485CE63}|Lancamento.Services\\Lancamento.Services.csproj|solutionrelative:lancamento.services\\command\\lancamentocommandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.repository\\handle\\createlancamentohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AAE4AB6-5C9D-43BD-B00F-F8EC45988026}|Lancamento.Repository\\Lancamento.Repository.csproj|solutionrelative:lancamento.repository\\handle\\createlancamentohandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5654D668-8B7C-4ADF-A1AC-81FD2C954D46}|LancamentoTest\\Lancamento.Tests.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamentotest\\lancamento.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5654D668-8B7C-4ADF-A1AC-81FD2C954D46}|LancamentoTest\\Lancamento.Tests.csproj|solutionrelative:lancamentotest\\lancamento.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46C69538-C2B3-4F08-A905-A0127485CE63}|Lancamento.Services\\Lancamento.Services.csproj|c:\\users\\gabri\\onedrive\\documentos\\github\\lancamentos\\lancamento\\lancamento.services\\query\\lancamentoqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46C69538-C2B3-4F08-A905-A0127485CE63}|Lancamento.Services\\Lancamento.Services.csproj|solutionrelative:lancamento.services\\query\\lancamentoqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController .cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Controllers\\AuthController .cs",
+              "RelativeDocumentMoniker": "Lancamento.API\\Controllers\\AuthController .cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Controllers\\AuthController .cs",
+              "RelativeToolTip": "Lancamento.API\\Controllers\\AuthController .cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:17:26.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Program.cs",
+              "RelativeDocumentMoniker": "Lancamento.API\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Program.cs",
+              "RelativeToolTip": "Lancamento.API\\Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAawEAAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:01:47.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LancamentosController.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Controllers\\LancamentosController.cs",
+              "RelativeDocumentMoniker": "Lancamento.API\\Controllers\\LancamentosController.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.API\\Controllers\\LancamentosController.cs",
+              "RelativeToolTip": "Lancamento.API\\Controllers\\LancamentosController.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAlwB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:01:35.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LancamentoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\LancamentoRepository.cs",
+              "RelativeDocumentMoniker": "Lancamento.Repository\\LancamentoRepository.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\LancamentoRepository.cs",
+              "RelativeToolTip": "Lancamento.Repository\\LancamentoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:01:35.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateLancamentoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\Command\\CreateLancamentoCommand.cs",
+              "RelativeDocumentMoniker": "Lancamento.Repository\\Command\\CreateLancamentoCommand.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\Command\\CreateLancamentoCommand.cs",
+              "RelativeToolTip": "Lancamento.Repository\\Command\\CreateLancamentoCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:01:21.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateLancamentoHandler.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\Handle\\CreateLancamentoHandler.cs",
+              "RelativeDocumentMoniker": "Lancamento.Repository\\Handle\\CreateLancamentoHandler.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\Handle\\CreateLancamentoHandler.cs",
+              "RelativeToolTip": "Lancamento.Repository\\Handle\\CreateLancamentoHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:01:13.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lancamento.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Domain\\Lancamento.cs",
+              "RelativeDocumentMoniker": "Lancamento.Domain\\Lancamento.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Domain\\Lancamento.cs",
+              "RelativeToolTip": "Lancamento.Domain\\Lancamento.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAtwBYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:58:05.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Lancamento.Tests",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\LancamentoTest\\Lancamento.Tests.csproj",
+              "RelativeDocumentMoniker": "LancamentoTest\\Lancamento.Tests.csproj",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\LancamentoTest\\Lancamento.Tests.csproj",
+              "RelativeToolTip": "LancamentoTest\\Lancamento.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T13:54:37.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\LancamentoTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "LancamentoTest\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\LancamentoTest\\UnitTest1.cs",
+              "RelativeToolTip": "LancamentoTest\\UnitTest1.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:54:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LancamentoCommandService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Services\\Command\\LancamentoCommandService.cs",
+              "RelativeDocumentMoniker": "Lancamento.Services\\Command\\LancamentoCommandService.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Services\\Command\\LancamentoCommandService.cs",
+              "RelativeToolTip": "Lancamento.Services\\Command\\LancamentoCommandService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:28:42.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LancamentoQueryService.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Services\\Query\\LancamentoQueryService.cs",
+              "RelativeDocumentMoniker": "Lancamento.Services\\Query\\LancamentoQueryService.cs",
+              "ToolTip": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Services\\Query\\LancamentoQueryService.cs",
+              "RelativeToolTip": "Lancamento.Services\\Query\\LancamentoQueryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T13:28:31.17Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

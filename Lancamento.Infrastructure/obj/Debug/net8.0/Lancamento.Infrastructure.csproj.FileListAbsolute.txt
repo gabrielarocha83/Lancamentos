@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\bin\Debug\net8.0\Lancamento.Infrastructure.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\bin\Debug\net8.0\Lancamento.Infrastructure.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\bin\Debug\net8.0\Lancamento.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\refint\Lancamento.Infrastructure.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\Lancamento.Infrastructure.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Infrastructure\obj\Debug\net8.0\ref\Lancamento.Infrastructure.dll

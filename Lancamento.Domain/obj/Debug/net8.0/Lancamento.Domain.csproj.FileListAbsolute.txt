@@ -1,0 +1,11 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\bin\Debug\net8.0\Lancamento.Domain.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\bin\Debug\net8.0\Lancamento.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\bin\Debug\net8.0\Lancamento.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\refint\Lancamento.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\Lancamento.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Domain\obj\Debug\net8.0\ref\Lancamento.Domain.dll

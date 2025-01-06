@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4uoEnslMhloaV8A7aPs/LAiSgpygGEYbYIuOrLaJiu0JhotUJXFuVbX3lO26vbXvHYKBrFcCXEBqVQckUn5AkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Documentos\\GitHub\\Lancamentos\\Lancamento\\Lancamento.Repository\\Lancamento.Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabri\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512"
+  ],
+  "logs": []
+}

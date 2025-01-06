@@ -1,0 +1,17 @@
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Services.deps.json
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Services.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Services.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Domain.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Repository.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Repository.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\bin\Debug\net8.0\Lancamento.Domain.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamen.6BB73812.Up2Date
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\refint\Lancamento.Services.dll
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\Lancamento.Services.pdb
+C:\Users\gabri\OneDrive\Documentos\GitHub\Lancamentos\Lancamento\Lancamento.Services\obj\Debug\net8.0\ref\Lancamento.Services.dll

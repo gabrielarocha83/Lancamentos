@@ -1,0 +1,6 @@
+@Lancamento.API_HostAddress = http://localhost:5192
+
+GET {{Lancamento.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
